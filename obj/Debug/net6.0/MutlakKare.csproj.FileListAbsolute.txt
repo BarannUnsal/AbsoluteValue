@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\bin\Debug\net6.0\MutlakKare.exe
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\bin\Debug\net6.0\MutlakKare.deps.json
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\bin\Debug\net6.0\MutlakKare.runtimeconfig.json
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\bin\Debug\net6.0\MutlakKare.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\bin\Debug\net6.0\ref\MutlakKare.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\bin\Debug\net6.0\MutlakKare.pdb
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.AssemblyInfo.cs
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\ref\MutlakKare.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.pdb
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\MutlakKare\obj\Debug\net6.0\MutlakKare.genruntimeconfig.cache
